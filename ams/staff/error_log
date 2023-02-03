@@ -1,0 +1,5 @@
+[06-Feb-2019 19:05:45 UTC] PHP Warning:  mail() expects parameter 1 to be string, array given in /home/phpgurukul/public_html/projectdemo/ams/staff/mark.php on line 55
+[06-Feb-2019 19:10:30 UTC] PHP Warning:  mail() expects parameter 1 to be string, array given in /home/phpgurukul/public_html/projectdemo/ams/staff/mark.php on line 51
+[06-Feb-2019 19:10:30 UTC] PHP Warning:  mail() expects parameter 1 to be string, array given in /home/phpgurukul/public_html/projectdemo/ams/staff/mark.php on line 51
+[06-Feb-2019 19:20:17 UTC] PHP Warning:  mail() expects parameter 1 to be string, array given in /home/phpgurukul/public_html/projectdemo/ams/staff/mark.php on line 51
+[06-Feb-2019 19:20:17 UTC] PHP Warning:  mail() expects parameter 1 to be string, array given in /home/phpgurukul/public_html/projectdemo/ams/staff/mark.php on line 51
